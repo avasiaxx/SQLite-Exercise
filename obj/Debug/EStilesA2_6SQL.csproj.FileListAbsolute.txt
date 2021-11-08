@@ -1,0 +1,57 @@
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe.config
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EntityFramework.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EntityFramework.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csprojAssemblyReference.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.frmMain.resources
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.Properties.Resources.resources
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.GenerateResource.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CoreCompileInputs.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CopyComplete
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe.config
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EntityFramework.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EntityFramework.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csprojAssemblyReference.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.frmMain.resources
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.Properties.Resources.resources
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.GenerateResource.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CoreCompileInputs.cache
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CopyComplete
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Documents\School Stuff\2021SummerClasses\AdvCPT\EStilesA2_7Reports\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe.config
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EntityFramework.dll
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.dll
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EntityFramework.xml
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\bin\Debug\System.Data.SQLite.xml
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.frmMain.resources
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.Properties.Resources.resources
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.GenerateResource.cache
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CoreCompileInputs.cache
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csproj.CopyComplete
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.exe
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.pdb
+C:\Users\Avasia\Desktop\EStilesA2_8PandD\EStilesA2_6SQL\obj\Debug\EStilesA2_6SQL.csprojAssemblyReference.cache
